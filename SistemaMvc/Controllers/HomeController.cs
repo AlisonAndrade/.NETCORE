@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SistemaMvc.Models;
+using SistemaMvc.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
